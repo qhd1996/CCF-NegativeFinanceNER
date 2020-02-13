@@ -1,0 +1,2 @@
+# CCF-NegativeFinanceNER
+2019年CCF大数据与智能计算大赛金融信息负面及主体判定第22名方案
